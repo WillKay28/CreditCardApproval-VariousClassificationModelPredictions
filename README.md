@@ -1,0 +1,2 @@
+# CreditCardApproval-VariousClassificationModelPredictions
+In this project, we apply various classification models (6) to the credit card data to examine their corresponding performance. The models include simple linear algorithms {Logistic Regression (LRG), Linear Discriminant Analysis (LDA)} and non-linear algorithms {K-Nearest Neighbors (KNN), Classification and Regression Trees (CART), Gaussian Naive Bayes (GNB), Support Vector Machines (SVM)}
